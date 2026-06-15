@@ -1,7 +1,4 @@
 # 8-bit Calculator ASIC (RTL → GDSII Flow)
-
-**Skills Used:** Verilog/SystemVerilog, Digital Logic Design, RTL Design, Functional Verification, Simulation & Debugging, Timing Analysis Basics, FPGA Prototyping, ASIC Physical Design Flow
-
 <br>
 
 ## 1. Introduction
