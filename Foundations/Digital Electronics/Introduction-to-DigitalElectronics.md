@@ -23,9 +23,7 @@ In electronics, usually signal is a variation of electrical current (I).
 
 <b> Why do we need "Digital Signals"? </b>
 <br>
-Digitals signals are used in a wide range of everyday tasks, to reduce noise.
-
-All real life signals are analog. If we want a digital signal we need to convert an analog signal to digital. 
+Digitals signals are used in a wide range of everyday tasks for their high accuracy.
 </br>
 
 Source: (https://www.youtube.com/watch?v=izBaDRyqnBk&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&index=4)
